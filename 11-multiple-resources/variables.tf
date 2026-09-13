@@ -60,4 +60,4 @@ variable "ec2_instance_config_map" {
     ])
     error_message = "At least one of the provided \"ami\" values is not supported.\nSupported \"ami\" values: \"ubuntu\", \"nginx\"."
   }
-}
+} 
